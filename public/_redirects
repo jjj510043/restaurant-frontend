@@ -1,0 +1,4 @@
+/classic /index.html 200
+/special /index.html 200
+/spirits /index.html 200
+/spirits/* /index.html 200
